@@ -1,4 +1,20 @@
-## [0.14.0] - 17 October 2021
+## [0.16.5] - 18 Feb 2024
+- Bump dependencies to latest
+- Added medium to Indicator Height
+- Exposed loading and error widget API on both story image and story video
+- Exposed outerPaddings API
+- onStoryShow callback now returns both storyItem and it's index
+
+## [0.16.3] - 18 Feb 2024
+- Test `publish.yml` worflow
+
+## [0.16.0] - 30 November 2023
+- Replace `PaintingBinding` with `ui`
+
+## [0.15.0] - 15 July 2023
+- API to change indicator colors.
+
+## [0.14.0] - 17 October 2022
 - Ability to hide progress indicators
 
 ## [0.13.2] - 22 November 2021
